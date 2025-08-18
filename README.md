@@ -17,29 +17,6 @@ A modern, responsive, and visually appealing website design for **Tea House**, s
 
 ---
 
-## 📁 Project Structure
-
-├── index.html # Main HTML file
-├── styles/
-│ └── style.css # Custom CSS styles
-├── images/ # Image assets used in the design
-│ ├── banner.png
-│ ├── tea-1.png
-│ ├── tea-2.png
-│ ├── tea-3.png
-│ ├── tea-4.png
-│ ├── fresh-1.png
-│ ├── fresh-2.png
-│ ├── client.png
-│ ├── circles.png
-│ ├── news-1.png
-│ ├── news-2.png
-│ └── news-3.png
-└── README.md # Project documentation
-
-
----
-
 ## ⚡ Technologies Used
 
 - **HTML5**
@@ -58,17 +35,4 @@ A modern, responsive, and visually appealing website design for **Tea House**, s
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   
-   git clone https://github.com/emrulislam/tea-house-website.git
-
-2. Navigate into the project directory:
-
-  cd tea-house-website
-
-3. Open index.html in your browser to see the website.
-
-4. Customize images, text, and colors as needed.
 
